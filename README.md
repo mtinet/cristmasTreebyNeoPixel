@@ -37,7 +37,8 @@
 ---
 ### 스케치
 스케치 링크는 [여기](https://github.com/mtinet/cristmasTreebyNeoPixel/blob/master/cristmasTreebyNeoPixel.ino)를 클릭하세요.
-'''
+
+~~~
 #include <Adafruit_NeoPixel.h>
 #ifdef __AVR__
   #include <avr/power.h>
@@ -175,4 +176,4 @@ uint32_t Wheel(byte WheelPos) {
   WheelPos -= 170;
   return strip.Color(WheelPos * 3, 255 - WheelPos * 3, 0);
 }
-'''
+~~~
