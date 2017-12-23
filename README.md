@@ -1,6 +1,10 @@
 # cristmasTreebyNeoPixel
 
 ## 아두이노 나노와 네오픽셀을 이용해 크리스마스 트리 만들기
+---
+### 설치 이미지
+![](https://github.com/mtinet/cristmasTreebyNeoPixel/blob/master/image/20171223_192550-ANIMATION.gif?raw=true)
+
 
 ---
 ### 제작 설명서
@@ -22,11 +26,6 @@
 * 빨간색 절연 테잎이 붙어져 있는 부분이 USB케이블의 단자를 잘라내고 +, - 만 살려 네오픽셀의 전원으로 사용하는 부분이다. 그 중 - 에 해당하는 선을 아두이노의 GND핀에 꽂아준 것을 확인할 수 있을 것이다. 그 부분이 마이너스 접지를 한 부분이다.  
 ![](https://github.com/mtinet/cristmasTreebyNeoPixel/blob/master/image/20171223_211338.jpg?raw=true)  
 * 네오픽셀을 다루는 자세한 정보는 [여기](http://blog.naver.com/PostView.nhn?blogId=dev4unet&logNo=220824812556&parentCategoryNo=&categoryNo=263&viewDate=&isShowPopularPosts=true&from=search)를 참고하면 좋다.  
-
-
----
-### 설치 이미지
-![](https://github.com/mtinet/cristmasTreebyNeoPixel/blob/master/image/20171223_192550-ANIMATION.gif?raw=true)
 
 
 ---
